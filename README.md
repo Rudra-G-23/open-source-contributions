@@ -10,6 +10,8 @@
 
 | Date | Project | PR    | Type          | Link   |
 | -------- | ------- | ----- | ------------- | -------- |
+| July 2026 | Traccia | #26   | Doc CHANGLOG | https://github.com/traccia-ai/traccia-py/pull/26 |
+| **Jun 2026** | -| **4**  | - | - |
 | Jun 2026 | Traccia | #25   | Doc Issues Template added | https://github.com/traccia-ai/traccia-py/pull/25 |
 | Jun 2026 | Awesome Opentelemetry | #56   | Doc update       | https://github.com/magsther/awesome-opentelemetry/pull/56 |
 | Jun 2026 | Langsmith-sdk | #3066   | Bug Fix | https://github.com/langchain-ai/langsmith-sdk/pull/3066 |
